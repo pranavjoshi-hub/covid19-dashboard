@@ -14,3 +14,7 @@
 * Total Countries Affected
 * Total Active
 * Total Confirmed Cases by Country
+
+Here is a snapshot of the dashboard.
+
+![](https://github.com/pranavjoshi-hub/covid19-dashboard/blob/main/images/dashboard_screenshot.PNG)
